@@ -1,0 +1,4 @@
+textbook/
+*.log
+*.tmp
+__pycache__/
