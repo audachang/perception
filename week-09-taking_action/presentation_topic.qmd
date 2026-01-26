@@ -12,10 +12,13 @@ Perception is not just for identification; it is for interaction. This topic con
 **Brainstorming Questions:**
 
 1. **The Zombie Pilot:**
-   Pick up a cup without looking directly at it (look at the TV instead). How did your hand know exactly how wide to open? Explain to your grandma that she has a "secret zombie pilot" (the Dorsal Stream) in her brain that handles grabbing and moving, even when her "conscious pilot" (the Ventral Stream) is watching a soap opera.
+   Pick up a cup without looking directly at it (look at the TV instead). How did your hand know exactly how wide to open? Explain, as if you were talking to, your grandma that she has a "secret zombie pilot" (the Dorsal Stream) in her brain that handles grabbing and moving, even when her "conscious pilot" (the Ventral Stream) is watching a soap opera.
 
 2. **The Sympathetic Ouch:**
-   Watch a video of someone stubbing their toe and feel that "cringe." Explain to a child why they feel someone else's pain. Describe "mirror neurons" as tiny copycats in their brain that pretend they are doing exactly what they see, helping us understand others.
+   Watch a video of someone stubbing their toe and feel that "cringe." Explain, as if you were talking to, a child why they feel someone else's pain. Describe "mirror neurons" as tiny copycats in their brain that pretend they are doing exactly what they see, helping us understand others.
 
 3. **The Magic Mirror Trick:**
    Look at yourself in a mirror and switch your gaze from your left eye to your right eye. You never see your eyes move! Explain this to a 6-year-old: tell them their brain "pauses the video" (Saccadic Suppression) every time they move their eyes so the world doesn't look like a blurry mess, making them the director of their own movie.
+
+**Reference:**  
+Goldstein, E. B., & Cacciamani, L. (2022). *Sensation and perception* (11th ed.). Cengage.

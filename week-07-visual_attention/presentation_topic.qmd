@@ -15,7 +15,10 @@ We cannot process everything in our visual field simultaneously. Attention is th
    Try patting your head and rubbing your tummy at the same time. Difficult? Use this physical struggle to explain to a child why "multitasking" is actually a myth. Explain that your brain is just a very fast "spotlight" switching back and forth, not a big floodlight that sees everything at once.
 
 2. **The "Autopilot" Drive:**
-   Recall a time you walked or drove somewhere and arrived without remembering the journey. Tell your grandma this story to explain "inattentional blindness"—how her eyes can be "recording" like a camera, but if her brain's "operator" is daydreaming, she doesn't essentially "see" anything.
+   Recall a time you walked or drove somewhere and arrived without remembering the journey. Tell, as if you were talking to, your grandma this story to explain "inattentional blindness"—how her eyes can be "recording" like a camera, but if her brain's "operator" is daydreaming, she doesn't essentially "see" anything.
 
 3. **The Magician's Trick:**
    Perform (or describe) a simple coin trick for a child. Explain that you fooled them not by being fast, but by distracting their "brain's spotlight." Teach them that if they look exactly where you want them to, they miss everything else, proving we really only see a tiny bit of the world at a time.
+
+**Reference:**  
+Goldstein, E. B., & Cacciamani, L. (2022). *Sensation and perception* (11th ed.). Cengage.

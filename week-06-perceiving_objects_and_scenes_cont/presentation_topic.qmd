@@ -15,7 +15,10 @@ The visual system does not just perceive lines and edges; it perceives whole obj
    Think of a time you mistook a shadow or a coat rack for a person in the dark. Retell this "scary story" to a 5-year-old, explaining how your brain "guessed" wrong based on the shape. Contrast this with a robot, which would just see "wood and metal," to explain why humans are better at guessing but also easily tricked.
 
 2. **The "Staticky" Phone Call:**
-   Have you ever read a text message with typos but understood it perfectly? Explain to your grandma how her brain is a "super-guesser" (Top-Down Processing) that fills in the blanks based on what she *expects* to see or hear, just like understanding a friend's voice over a bad phone connection.
+   Have you ever read a text message with typos but understood it perfectly? Explain, as if you were talking to, your grandma how her brain is a "super-guesser" (Top-Down Processing) that fills in the blanks based on what she *expects* to see or hear, just like understanding a friend's voice over a bad phone connection.
 
 3. **The Upside-Down Family:**
    Look at a photo of a family member upside down. Is it weirdly hard to recognize them? Use this experience to explain to a child why faces are special "puzzles" that our brain likes to solve all at once (holistically), not piece-by-piece like a Lego set, and why it gets confused when the pieces are flipping around.
+
+**Reference:**  
+Goldstein, E. B., & Cacciamani, L. (2022). *Sensation and perception* (11th ed.). Cengage.
