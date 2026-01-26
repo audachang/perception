@@ -11,15 +11,14 @@ format: pdf
 This presentation examines Bela Julesz's pioneering work on cyclopean perception using random-dot stereograms and the classic psychophysics of size constancy.
 
 **Brainstorming Questions:**
+1. **Magic Eye Pictures:**
+   Explain Random Dot Stereograms (Julesz). Explain, as if you were talking to, your aunt how a mess of static snow can turn into a 3D dinosaur. It's because our brain compares the tiny shift (disparity) between the left and right eye images to calculate depth mathematically, even without any outlines or recognizable shapes.
 
-1. **The Coughing Radio:**
-   Have someone cough loudly while you are saying a sentence. Did the listener hear the missing word anyway? Explain, as if you were talking to, your grandma that her brain is a "polite editor" (Phonemic Restoration) that fills in missing sounds so smoothly she doesn't even notice the gaps, just like autocorrect for her ears.
+2. **The Tiny Car Trick:**
+   Look at a car far away; it looks toy-sized on your retina. Explain, as if you were talking to, a 5-year-old why they know it's a real big car and not a toy. Tell them their brain does math (Size-Distance Scaling) automatically: "It looks small, but it's far away, so it must be HUGE!"
 
-2. **The Soldier vs. The Crowd:**
-   Listen to a random clatter vs. a drum beat. Why is one noise and the other music? Explain, as if you were talking to, a child that music is "organized sound" that our brain likes to predict. Use an analogy of marching soldiers (music) coming down the street vs. a disorganized crowd of people (noise) bumping into each other.
-
-3. **The Party Challenge:**
-   Put on earmuffs and try to listen to one person talking at a loud party. Exhausting, right? Explain, as if you were talking to, your grandfather why hearing loss makes him so tired. Tell him his brain has to work out like a bodybuilder just to separate the "voice" from the "noise" without the clear signal, which consumes all his energy.
+3. **Echolocation:**
+   Some blind people can "see" with sound (like bats). Explain, as if you were talking to, your friend how reflected sound waves can create a "spatial map" in the brain, utilizing the same areas that usually process vision to navigate the environment.
 
 **Recommended Readings:**
 

@@ -11,15 +11,14 @@ format: pdf
 This session explores the Mirror Neuron System and its role in social cognition, alongside J.J. Gibson's ecological theory of 'affordances'—how we perceive the environment in terms of action possibilities.
 
 **Brainstorming Questions:**
+1. **Monkey See, Monkey Do:**
+   Explain Mirror Neurons. Explain, as if you were talking to, your little brother why he winces when he sees someone else get hurt. Tell him his brain has "copycat cells" that practice the feeling just by watching, which helps us have empathy.
 
-1. **The Flavor of Color:**
-   Pick your favorite color. Now, try to describe "Red" to someone who has been blind since birth without using objects (like "hot" or "apple"). Use this struggle to explain to a child that color isn't a "thing" in the world, but a "flavor" our brain acts out. It's an ingredient we add to the recipe of vision!
+2. **The Chair Says "Sit!":**
+   Explain Gibson's "Affordances." Explain, as if you were talking to, your grandma that objects tell us what to do with them—a handle screams "pull me!", a button screams "push me!"—so we don't just see shapes, we see "action possibilities."
 
-2. **The Argument Over "The Dress":**
-   Recall a debate about whether a wall is "blue" or "grey," or the famous "Dress" photo. Explain, as if you were talking to, your grandma that her brain acts like an "Instagram filter," automatically changing colors based on the lighting it *thinks* is there. Tell her we all live in slightly different visual worlds!
-
-3. **The Super-Vision Hero:**
-   Imagine you could see colors that bees see (UV). Write a short superhero profile for a child about "Captain Chroma" who finds secret messages on flowers. Use this to explain that what we see is limited by the "crayons" (cones) in our eyes, and some animals have way bigger boxes of crayons than we do.
+3. **Action Understanding:**
+   Why do we understand what someone is doing just by looking? Explain, as if you were talking to, a friend that we simulate their actions in our own motor cortex. Basically, "to know it, you have to mentally do it."
 
 **Recommended Readings:**
 

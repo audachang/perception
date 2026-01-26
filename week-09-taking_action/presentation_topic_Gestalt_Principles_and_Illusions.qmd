@@ -11,15 +11,14 @@ format: pdf
 This topic revisits the enduring legacy of Gestalt psychology in modern vision science and explores the fascinating world of optical illusions that reveal the brain's constructive nature.
 
 **Brainstorming Questions:**
+1. **The Phantom Triangle:**
+   Show the Kanizsa triangle illusion (where Pac-men shapes create a white triangle). Explain, as if you were talking to, your grandma why she sees a bright white triangle that isn't actually drawn there. Tell her her brain is a "detective" that assumes the triangle *must* be there to block the circles.
 
-1. **The Zombie Pilot:**
-   Pick up a cup without looking directly at it (look at the TV instead). How did your hand know exactly how wide to open? Explain, as if you were talking to, your grandma that she has a "secret zombie pilot" (the Dorsal Stream) in her brain that handles grabbing and moving, even when her "conscious pilot" (the Ventral Stream) is watching a soap opera.
+2. **The "Impossible" Fork:**
+   Show an optical illusion like the Devil's Tuning Fork. Explain, as if you were talking to, a 5-year-old why it makes their brain feel funny. It's because the drawing breaks the 3D rules our brain normally uses to understand the world, confusing the "construction crew" in our head.
 
-2. **The Sympathetic Ouch:**
-   Watch a video of someone stubbing their toe and feel that "cringe." Explain, as if you were talking to, a child why they feel someone else's pain. Describe "mirror neurons" as tiny copycats in their brain that pretend they are doing exactly what they see, helping us understand others.
-
-3. **The Magic Mirror Trick:**
-   Look at yourself in a mirror and switch your gaze from your left eye to your right eye. You never see your eyes move! Explain this to a 6-year-old: tell them their brain "pauses the video" (Saccadic Suppression) every time they move their eyes so the world doesn't look like a blurry mess, making them the director of their own movie.
+3. **Figure-Ground Flip:**
+   Show the Face-Vase illusion. Explain, as if you were talking to, your uncle why he can switch between seeing two faces or one vase, but never both at the exact same time. It's because the brain always needs to decide what is the "main character" (figure) and what is the "background."
 
 **Recommended Readings:**
 

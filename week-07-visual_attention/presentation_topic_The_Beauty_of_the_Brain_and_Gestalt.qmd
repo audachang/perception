@@ -11,15 +11,14 @@ format: pdf
 This session contrasts Semir Zeki's neuroaesthetic exploration of art as a function of the visual brain with the foundational Gestalt laws that govern how we organize chaotic stimuli into coherent forms.
 
 **Brainstorming Questions:**
+1. **The Art Critic in Your Head:**
+   Zeki says great art pleases the brain's biology. Explain, as if you were talking to, an artist friend that we generally love simple, balanced shapes (like in Mondrian paintings) because our brain's visual areas are efficient and love pure signals that hit their "sweet spot" perfectly.
 
-1. **The Tummy Rub Challenge:**
-   Try patting your head and rubbing your tummy at the same time. Difficult? Use this physical struggle to explain to a child why "multitasking" is actually a myth. Explain that your brain is just a very fast "spotlight" switching back and forth, not a big floodlight that sees everything at once.
+2. **The "Good Figure":**
+   Gestalt psychologists say we see the whole, not the parts. Explain, as if you were talking to, a child why a bicycle looks like a "bike" and not just "wheels + shiny bars," because our brain instanty glues it all together—"The whole is greater than the sum of its parts."
 
-2. **The "Autopilot" Drive:**
-   Recall a time you walked or drove somewhere and arrived without remembering the journey. Tell, as if you were talking to, your grandma this story to explain "inattentional blindness"—how her eyes can be "recording" like a camera, but if her brain's "operator" is daydreaming, she doesn't essentially "see" anything.
-
-3. **The Magician's Trick:**
-   Perform (or describe) a simple coin trick for a child. Explain that you fooled them not by being fast, but by distracting their "brain's spotlight." Teach them that if they look exactly where you want them to, they miss everything else, proving we really only see a tiny bit of the world at a time.
+3. **Grouping by Color:**
+   Show a picture of red and blue dots. Explain, as if you were talking to, your grandma why she instantly sees "rows of red" and "rows of blue" (Law of Similarity) without even trying. Her brain is obsessed with organizing things into "teams."
 
 **Recommended Readings:**
 

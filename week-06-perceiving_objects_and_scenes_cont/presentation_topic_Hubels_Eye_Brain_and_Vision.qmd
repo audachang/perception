@@ -11,15 +11,14 @@ format: pdf
 This presentation delves into David Hubel's foundational work on the primary visual cortex, exploring how the brain deconstructs the visual world into oriented lines and edges.
 
 **Brainstorming Questions:**
+1. **The Cat and the Line:**
+   Hubel and Wiesel showed kittens lines to see how they learned to see. Explain, as if you were talking to, a 6-year-old that our brain has to "learn" to see straight lines just like we learn to read, and if we don't practice during the "critical period," we might be blind to them forever.
 
-1. **The Spooky Coat Rack:**
-   Think of a time you mistook a shadow or a coat rack for a person in the dark. Retell this "scary story" to a 5-year-old, explaining how your brain "guessed" wrong based on the shape. Contrast this with a robot, which would just see "wood and metal," to explain why humans are better at guessing but also easily tricked.
+2. **Building Blocks of Sight:**
+   The brain builds vision from simple information. Explain, as if you were talking to, your grandpa that the brain is like a construction crew: it starts with simple bricks (lines/edges in V1), then builds walls (shapes), and finally a whole house (an object), so we need the simple stuff to see the big picture.
 
-2. **The "Staticky" Phone Call:**
-   Have you ever read a text message with typos but understood it perfectly? Explain, as if you were talking to, your grandma how her brain is a "super-guesser" (Top-Down Processing) that fills in the blanks based on what she *expects* to see or hear, just like understanding a friend's voice over a bad phone connection.
-
-3. **The Upside-Down Family:**
-   Look at a photo of a family member upside down. Is it weirdly hard to recognize them? Use this experience to explain to a child why faces are special "puzzles" that our brain likes to solve all at once (holistically), not piece-by-piece like a Lego set, and why it gets confused when the pieces are flipping around.
+3. **Feature Detectors:**
+   Explain, as if you were talking to, a child that we have special "brain neurons" that only wake up for specific things—like a line tilting left or a line tilting right. It's like having a choir where one singer only sings when they see a specific note.
 
 **Recommended Readings:**
 

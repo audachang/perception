@@ -11,15 +11,14 @@ format: pdf
 This presentation focuses on the mechanisms of attention, drawing from Daniel Goleman's insights on focus and current research on the factors that guide visual search in complex environments.
 
 **Brainstorming Questions:**
+1. **The Invisible Gorilla:**
+   Explain the famous experiment where people miss a gorilla because they are counting basketball passes. Explain, as if you were talking to, your uncle why he couldn't find his keys even though he looked right at them: "Attention" is like a spotlight—if the mental light isn't on it, it's practically invisible to the conscious mind!
 
-1. **The Fake Train Ride:**
-   Describe the feeling of sitting in a stopped train when the train next to you starts moving. Did you feel like *you* were moving? Explain, as if you were talking to, your grandma why her brain got confused, using an analogy of being in a boat on a drifting river, showing how our brain guesses movement based on what's biggest in our view.
+2. **Where's Waldo Champion:**
+   Explain, as if you were talking to, a child how to get better at visual search. Tell them their brain needs a "target template" (a picture in their head) to scan the crowd, and it's hard work because the brain has to reject every "non-Waldo" person one by one (Binding Problem).
 
-2. **The Glow-Stick Dance:**
-   Imagine watching a video of just moving white dots on a black screen (like motion capture). Explain, as if you were talking to, a child how they can instantly tell if the dots are a "happy person" or a "scary monster." Tell them their brain is a "super-detective" that focuses on *movement* to identify living things, even without seeing a face.
-
-3. **The Sneaky Tiger Alarm:**
-   Wave your hand wildly at the far side of your head while staring forward. Why is it so annoying? Explain, as if you were talking to, your uncle that this is his ancient "Tiger Alarm" (peripheral motion sensitivity). His brain doesn't care about details on the side, but it screams "DANGER!" if anything moves there, which is why flashing web ads are so distracting.
+3. **Flow State:**
+   Goleman talks about "Focus." Explain, as if you were talking to, a musician friend what "Flow" is—when your attention is so perfectly locked onto what you are doing that the rest of the world (and even your sense of self) disappears.
 
 **Recommended Readings:**
 

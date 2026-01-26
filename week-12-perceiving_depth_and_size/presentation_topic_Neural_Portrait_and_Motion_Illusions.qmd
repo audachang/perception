@@ -11,15 +11,14 @@ format: pdf
 This topic highlights Nancy Kanwisher's research on the functional specialization of the brain (e.g., the Fusiform Face Area) and investigates the intriguing mechanisms behind motion aftereffects and illusions.
 
 **Brainstorming Questions:**
+1. **The Face Place (FFA):**
+   Nancy Kanwisher found a spot in the brain just for faces. Explain, as if you were talking to, a child why we see faces in clouds, burnt toast, or electrical outlets. It's because that special part of our brain is so eager to do its job, it shouts "FACE!" at anything that looks remotely like one.
 
-1. **The Two-Camera Trick:**
-   Close one eye and try to touch your two index fingertips together quickly at arm's length. Did you miss? Explain, as if you were talking to, a child that having two eyes is like having two slightly different camera angles. Your brain is the mathematically genius editor that combines them to measure "how far," just like 3D glasses do at the movies.
+2. **The Waterfall Effect:**
+   Stare at a waterfall (or scrolling credits) then look at a wall; the wall flows up! Explain, as if you were talking to, your grandpa that his brain's "downward motion detectors" got tired/fatigues, so the "upward detectors" took over, making the stationary rocks look like they are floating up.
 
-2. **The Giant Moon Story:**
-   Look at a giant moon on the horizon. Tell a bedtime story to a child explaining that the moon isn't actually getting bigger. It's a "brain trick"! Explain that because the brain thinks the horizon is really far away, it decides the moon must be *enormous* to look that big, like a monster that looks small in the distance but is actually huge.
-
-3. **The Sidewalk Artist:**
-   Draw a simple road that gets narrow at the top (a triangle). Show it to a 5-year-old and ask why the top looks "far away." Explain that artists use simple rules—like "small things are far"—to trick our brains. Our brains differ "size" and "distance" so much that we can be easily fooled by a flat piece of paper.
+3. **Modules in the Brain:**
+   Is the brain one big mush or a set of tools? Explain, as if you were talking to, your cousin that the brain is like a Swiss Army Knife—it has specific tools for specific jobs (a "Face" tool, a "Place" tool, a "Body Part" tool) rather than doing everything with the whole brain.
 
 **Recommended Readings:**
 
