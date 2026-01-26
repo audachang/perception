@@ -11,11 +11,11 @@ The retina is a 2D surface, yet we perceive a rich 3D world. This topic investig
 
 **Brainstorming Questions:**
 
-1. **The Two-Camera Trick:** specific personal experience required.
+1. **The Two-Camera Trick:**
    Close one eye and try to touch your two index fingertips together quickly at arm's length. Did you miss? Explain to a child that having two eyes is like having two slightly different camera angles. Your brain is the mathematically genius editor that combines them to measure "how far," just like 3D glasses do at the movies.
 
-2. **The Giant Moon Story:** specific personal experience required.
+2. **The Giant Moon Story:**
    Look at a giant moon on the horizon. Tell a bedtime story to a child explaining that the moon isn't actually getting bigger. It's a "brain trick"! Explain that because the brain thinks the horizon is really far away, it decides the moon must be *enormous* to look that big, like a monster that looks small in the distance but is actually huge.
 
-3. **The Sidewalk Artist:** specific personal experience required.
+3. **The Sidewalk Artist:**
    Draw a simple road that gets narrow at the top (a triangle). Show it to a 5-year-old and ask why the top looks "far away." Explain that artists use simple rules—like "small things are far"—to trick our brains. Our brains differ "size" and "distance" so much that we can be easily fooled by a flat piece of paper.
