@@ -1,0 +1,27 @@
+---
+title: "Week 11 Presentation: The Mirror Neuron System & Affordances"
+format: pdf
+---
+
+# The Mirror Neuron System & Affordances
+
+**Introduction:**   
+
+
+This session explores the Mirror Neuron System and its role in social cognition, alongside J.J. Gibson's ecological theory of 'affordances'—how we perceive the environment in terms of action possibilities.
+
+**Brainstorming Questions:**
+
+1. **The Flavor of Color:**
+   Pick your favorite color. Now, try to describe "Red" to someone who has been blind since birth without using objects (like "hot" or "apple"). Use this struggle to explain to a child that color isn't a "thing" in the world, but a "flavor" our brain acts out. It's an ingredient we add to the recipe of vision!
+
+2. **The Argument Over "The Dress":**
+   Recall a debate about whether a wall is "blue" or "grey," or the famous "Dress" photo. Explain, as if you were talking to, your grandma that her brain acts like an "Instagram filter," automatically changing colors based on the lighting it *thinks* is there. Tell her we all live in slightly different visual worlds!
+
+3. **The Super-Vision Hero:**
+   Imagine you could see colors that bees see (UV). Write a short superhero profile for a child about "Captain Chroma" who finds secret messages on flowers. Use this to explain that what we see is limited by the "crayons" (cones) in our eyes, and some animals have way bigger boxes of crayons than we do.
+
+**Recommended Readings:**
+
+*   Rizzolatti, G., & Sinigaglia, C. (2008). *Mirrors in the brain: How our minds share actions and emotions*. Oxford University Press.
+*   Gibson, J. J. (1979). *The ecological approach to visual perception*. Houghton Mifflin.

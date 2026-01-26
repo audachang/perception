@@ -1,0 +1,27 @@
+---
+title: "Week 10 Presentation: Focus & Visual Search"
+format: pdf
+---
+
+# Focus & Visual Search
+
+**Introduction:**   
+
+
+This presentation focuses on the mechanisms of attention, drawing from Daniel Goleman's insights on focus and current research on the factors that guide visual search in complex environments.
+
+**Brainstorming Questions:**
+
+1. **The Fake Train Ride:**
+   Describe the feeling of sitting in a stopped train when the train next to you starts moving. Did you feel like *you* were moving? Explain, as if you were talking to, your grandma why her brain got confused, using an analogy of being in a boat on a drifting river, showing how our brain guesses movement based on what's biggest in our view.
+
+2. **The Glow-Stick Dance:**
+   Imagine watching a video of just moving white dots on a black screen (like motion capture). Explain, as if you were talking to, a child how they can instantly tell if the dots are a "happy person" or a "scary monster." Tell them their brain is a "super-detective" that focuses on *movement* to identify living things, even without seeing a face.
+
+3. **The Sneaky Tiger Alarm:**
+   Wave your hand wildly at the far side of your head while staring forward. Why is it so annoying? Explain, as if you were talking to, your uncle that this is his ancient "Tiger Alarm" (peripheral motion sensitivity). His brain doesn't care about details on the side, but it screams "DANGER!" if anything moves there, which is why flashing web ads are so distracting.
+
+**Recommended Readings:**
+
+*   Goleman, D. (2013). *Focus: The hidden driver of excellence*. Harper.
+*   Wolfe, J. M., & Horowitz, T. S. (2017). Five factors that guide attention in visual search. *Nature Human Behaviour*, 1(3), 0058.

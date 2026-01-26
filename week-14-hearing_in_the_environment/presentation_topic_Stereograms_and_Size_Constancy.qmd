@@ -1,13 +1,14 @@
 ---
-title: "Week 14 Presentation: Auditory Scene Analysis (Chapter 12)"
+title: "Week 14 Presentation: Stereograms & Size Constancy"
 format: pdf
 ---
 
-# Auditory Scene Analysis (Chapter 12)
+# Stereograms & Size Constancy
 
 **Introduction:**   
 
-In a noisy coffee shop, we can tune into a single conversation while ignoring the clatter of cups and background music. This is the "Cocktail Party Problem." This topic explores how the auditory system groups sounds by pitch, timbre, and location to segregate the auditory stream into distinct objects, similar to figure-ground segregation in vision.
+
+This presentation examines Bela Julesz's pioneering work on cyclopean perception using random-dot stereograms and the classic psychophysics of size constancy.
 
 **Brainstorming Questions:**
 

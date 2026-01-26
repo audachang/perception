@@ -1,0 +1,27 @@
+---
+title: "Week 9 Presentation: Gestalt Principles and Illusion Demonstrations"
+format: pdf
+---
+
+# Gestalt Principles and Illusion Demonstrations
+
+**Introduction:**   
+
+
+This topic revisits the enduring legacy of Gestalt psychology in modern vision science and explores the fascinating world of optical illusions that reveal the brain's constructive nature.
+
+**Brainstorming Questions:**
+
+1. **The Zombie Pilot:**
+   Pick up a cup without looking directly at it (look at the TV instead). How did your hand know exactly how wide to open? Explain, as if you were talking to, your grandma that she has a "secret zombie pilot" (the Dorsal Stream) in her brain that handles grabbing and moving, even when her "conscious pilot" (the Ventral Stream) is watching a soap opera.
+
+2. **The Sympathetic Ouch:**
+   Watch a video of someone stubbing their toe and feel that "cringe." Explain, as if you were talking to, a child why they feel someone else's pain. Describe "mirror neurons" as tiny copycats in their brain that pretend they are doing exactly what they see, helping us understand others.
+
+3. **The Magic Mirror Trick:**
+   Look at yourself in a mirror and switch your gaze from your left eye to your right eye. You never see your eyes move! Explain this to a 6-year-old: tell them their brain "pauses the video" (Saccadic Suppression) every time they move their eyes so the world doesn't look like a blurry mess, making them the director of their own movie.
+
+**Recommended Readings:**
+
+*   Wagemans, J., Elder, J. H., Kubovy, M., Palmer, S. E., Peterson, M. A., Singh, M., & von der Heydt, R. (2012). A century of Gestalt psychology in visual perception: I. Perceptual grouping and figure-ground organization. *Psychological Bulletin*, 138(6), 1172–1217.
+*   Seckel, A. (2000). *The art of optical illusions*. Octopus Books.
