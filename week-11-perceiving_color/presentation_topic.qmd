@@ -22,4 +22,5 @@ Color is a psychophysical construct, not a physical property of objects. This pr
 
 **Recommended Readings:**
 
-*   Goldstein, E. B., & Cacciamani, L. (2022). Chapter 9: Perceiving Color. In *Sensation and perception* (11th ed.). Cengage.
+*   Rizzolatti, G., & Sinigaglia, C. (2008). *Mirrors in the brain: How our minds share actions and emotions*. Oxford University Press.
+*   Gibson, J. J. (1979). *The ecological approach to visual perception*. Houghton Mifflin.

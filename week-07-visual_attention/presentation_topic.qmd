@@ -22,4 +22,5 @@ We cannot process everything in our visual field simultaneously. Attention is th
 
 **Recommended Readings:**
 
-*   Goldstein, E. B., & Cacciamani, L. (2022). Chapter 6: Visual Attention. In *Sensation and perception* (11th ed.). Cengage.
+*   Zeki, S. (1999). *Inner vision: An exploration of art and the brain*. Oxford University Press.
+*   Wertheimer, M. (1938). Laws of organization in perceptual forms. In W. D. Ellis (Ed.), *A source book of Gestalt psychology* (pp. 71-88). Harcourt, Brace.

@@ -22,4 +22,5 @@ In a noisy coffee shop, we can tune into a single conversation while ignoring th
 
 **Recommended Readings:**
 
-*   Goldstein, E. B., & Cacciamani, L. (2022). Chapter 12: Hearing in the Environment. In *Sensation and perception* (11th ed.). Cengage.
+*   Julesz, B. (1971). *Foundations of cyclopean perception*. University of Chicago Press.
+*   Holway, A. H., & Boring, E. G. (1941). Determinants of apparent visual size with distance variant. *The American Journal of Psychology*, 54(1), 21-37.

@@ -22,4 +22,5 @@ The retina is a 2D surface, yet we perceive a rich 3D world. This topic investig
 
 **Recommended Readings:**
 
-*   Goldstein, E. B., & Cacciamani, L. (2022). Chapter 10: Perceiving Depth and Size. In *Sensation and perception* (11th ed.). Cengage.
+*   Kanwisher, N. (2010). Functional specificity in the human brain: A window into the functional architecture of the mind. *Proceedings of the National Academy of Sciences*, 107(25), 11163-11170.
+*   Mather, G., Verstraten, F., & Anstis, S. (Eds.). (1998). *The motion aftereffect: A modern perspective*. MIT Press.

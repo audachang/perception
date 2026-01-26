@@ -22,4 +22,5 @@ Perception is not just for identification; it is for interaction. This topic con
 
 **Recommended Readings:**
 
-*   Goldstein, E. B., & Cacciamani, L. (2022). Chapter 7: Taking Action. In *Sensation and perception* (11th ed.). Cengage.
+*   Wagemans, J., Elder, J. H., Kubovy, M., Palmer, S. E., Peterson, M. A., Singh, M., & von der Heydt, R. (2012). A century of Gestalt psychology in visual perception: I. Perceptual grouping and figure-ground organization. *Psychological Bulletin*, 138(6), 1172–1217.
+*   Seckel, A. (2000). *The art of optical illusions*. Octopus Books.

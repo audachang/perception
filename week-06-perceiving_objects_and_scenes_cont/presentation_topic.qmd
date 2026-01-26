@@ -22,4 +22,4 @@ The visual system does not just perceive lines and edges; it perceives whole obj
 
 **Recommended Readings:**
 
-*   Goldstein, E. B., & Cacciamani, L. (2022). Chapter 5: Perceiving Objects and Scenes. In *Sensation and perception* (11th ed.). Cengage.
+*   Hubel, D. H. (1995). *Eye, brain, and vision*. Scientific American Library.
