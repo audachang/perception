@@ -20,5 +20,6 @@ Motion is a fundamental perceptual dimension that signals danger, biological lif
 3. **The Sneaky Tiger Alarm:**
    Wave your hand wildly at the far side of your head while staring forward. Why is it so annoying? Explain, as if you were talking to, your uncle that this is his ancient "Tiger Alarm" (peripheral motion sensitivity). His brain doesn't care about details on the side, but it screams "DANGER!" if anything moves there, which is why flashing web ads are so distracting.
 
-**Reference:**  
-Goldstein, E. B., & Cacciamani, L. (2022). *Sensation and perception* (11th ed.). Cengage.
+**Recommended Readings:**
+
+*   Goldstein, E. B., & Cacciamani, L. (2022). Chapter 8: Perceiving Motion. In *Sensation and perception* (11th ed.). Cengage.

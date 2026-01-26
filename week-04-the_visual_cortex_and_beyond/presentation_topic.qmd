@@ -20,5 +20,7 @@ Vision begins with light striking the retina, but "seeing" occurs in the brain. 
 3. **The Broken TV Analogy:**
    Close your eyes and try to identify an object (like a key) just by touch. Now, imagine seeing an object moving but having no color. Explain this "selective blindness" (like achromatopsia) to a child using an analogy of a broken TV that has sound but no picture, helping them understand how different brain parts do different jobs.
 
-**Reference:**  
-Goldstein, E. B., & Cacciamani, L. (2022). *Sensation and perception* (11th ed.). Cengage.
+**Recommended Readings:**
+
+*   Goldstein, E. B., & Cacciamani, L. (2022). Chapter 3: The Eye and Retina. In *Sensation and perception* (11th ed.). Cengage.
+*   Goldstein, E. B., & Cacciamani, L. (2022). Chapter 4: The Visual Cortex and Beyond. In *Sensation and perception* (11th ed.). Cengage.

@@ -20,5 +20,6 @@ In a noisy coffee shop, we can tune into a single conversation while ignoring th
 3. **The Party Challenge:**
    Put on earmuffs and try to listen to one person talking at a loud party. Exhausting, right? Explain, as if you were talking to, your grandfather why hearing loss makes him so tired. Tell him his brain has to work out like a bodybuilder just to separate the "voice" from the "noise" without the clear signal, which consumes all his energy.
 
-**Reference:**  
-Goldstein, E. B., & Cacciamani, L. (2022). *Sensation and perception* (11th ed.). Cengage.
+**Recommended Readings:**
+
+*   Goldstein, E. B., & Cacciamani, L. (2022). Chapter 12: Hearing in the Environment. In *Sensation and perception* (11th ed.). Cengage.

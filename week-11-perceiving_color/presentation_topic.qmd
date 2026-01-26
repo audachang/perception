@@ -20,5 +20,6 @@ Color is a psychophysical construct, not a physical property of objects. This pr
 3. **The Super-Vision Hero:**
    Imagine you could see colors that bees see (UV). Write a short superhero profile for a child about "Captain Chroma" who finds secret messages on flowers. Use this to explain that what we see is limited by the "crayons" (cones) in our eyes, and some animals have way bigger boxes of crayons than we do.
 
-**Reference:**  
-Goldstein, E. B., & Cacciamani, L. (2022). *Sensation and perception* (11th ed.). Cengage.
+**Recommended Readings:**
+
+*   Goldstein, E. B., & Cacciamani, L. (2022). Chapter 9: Perceiving Color. In *Sensation and perception* (11th ed.). Cengage.

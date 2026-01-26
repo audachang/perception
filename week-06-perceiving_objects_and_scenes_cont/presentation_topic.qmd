@@ -20,5 +20,6 @@ The visual system does not just perceive lines and edges; it perceives whole obj
 3. **The Upside-Down Family:**
    Look at a photo of a family member upside down. Is it weirdly hard to recognize them? Use this experience to explain to a child why faces are special "puzzles" that our brain likes to solve all at once (holistically), not piece-by-piece like a Lego set, and why it gets confused when the pieces are flipping around.
 
-**Reference:**  
-Goldstein, E. B., & Cacciamani, L. (2022). *Sensation and perception* (11th ed.). Cengage.
+**Recommended Readings:**
+
+*   Goldstein, E. B., & Cacciamani, L. (2022). Chapter 5: Perceiving Objects and Scenes. In *Sensation and perception* (11th ed.). Cengage.

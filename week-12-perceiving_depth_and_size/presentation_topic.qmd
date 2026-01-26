@@ -20,5 +20,6 @@ The retina is a 2D surface, yet we perceive a rich 3D world. This topic investig
 3. **The Sidewalk Artist:**
    Draw a simple road that gets narrow at the top (a triangle). Show it to a 5-year-old and ask why the top looks "far away." Explain that artists use simple rules—like "small things are far"—to trick our brains. Our brains differ "size" and "distance" so much that we can be easily fooled by a flat piece of paper.
 
-**Reference:**  
-Goldstein, E. B., & Cacciamani, L. (2022). *Sensation and perception* (11th ed.). Cengage.
+**Recommended Readings:**
+
+*   Goldstein, E. B., & Cacciamani, L. (2022). Chapter 10: Perceiving Depth and Size. In *Sensation and perception* (11th ed.). Cengage.

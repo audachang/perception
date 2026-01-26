@@ -20,5 +20,6 @@ Perception is not just for identification; it is for interaction. This topic con
 3. **The Magic Mirror Trick:**
    Look at yourself in a mirror and switch your gaze from your left eye to your right eye. You never see your eyes move! Explain this to a 6-year-old: tell them their brain "pauses the video" (Saccadic Suppression) every time they move their eyes so the world doesn't look like a blurry mess, making them the director of their own movie.
 
-**Reference:**  
-Goldstein, E. B., & Cacciamani, L. (2022). *Sensation and perception* (11th ed.). Cengage.
+**Recommended Readings:**
+
+*   Goldstein, E. B., & Cacciamani, L. (2022). Chapter 7: Taking Action. In *Sensation and perception* (11th ed.). Cengage.
